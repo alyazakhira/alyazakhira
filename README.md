@@ -21,5 +21,6 @@
   - 🙋‍♀️ Worked as a **full-stack developer**.
   - 💾 [Project Details](https://github.com/alyazakhira/PAD1-Zero_Plastic).
 
-> [!IMPORTANT]  
-> This project is considered deprecated.
+  > [!IMPORTANT]  
+  > This project is considered deprecated.
+  
