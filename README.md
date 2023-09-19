@@ -22,5 +22,5 @@
   - 💾 [Project Details](https://github.com/alyazakhira/PAD1-Zero_Plastic).
 
   > [!IMPORTANT]  
-  > This project is considered deprecated.
+  > The Zero Plastic project is considered deprecated.
   
