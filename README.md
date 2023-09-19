@@ -1,16 +1,25 @@
-### Hi there 👋
+### こんにちは 👋
+> "If, at first, you do not succeed, call it version 1.0." ― Khayri R.R. Woulfe
 
-<!--
-**alyazakhira/alyazakhira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 📝| About Me 
+- 👩‍💻 I'm Akira!
+- ☁ I’m currently learning about cloud computing.
+- 📈 Focused to be a full-stack developer.
+- 📌 Familiar with Laravel, NodeJS, Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## ⚒ | Projects 
+### 📚 CGAA (Certified Government Accounting Associate) Simulation Web App
+  - 🧪 Built using **PHP (Laravel)**.
+  - 🙋‍♀️ Worked as a **full-stack developer**.
+  - 🔦 This project has two components:
+    - [App / Front-end](https://github.com/alyazakhira/PAD2-CGAA-APP-V2).
+    - [API / Back-end](https://github.com/alyazakhira/PAD2-CGAA-API-V2).
+
+### 🌱 Zero-Plastic Website
+  - 🙋‍♀️ Worked as a **full-stack developer**.
+  - 💾 [Project Details](https://github.com/alyazakhira/PAD1-Zero_Plastic).
+
+> [!IMPORTANT]  
+> This project is considered deprecated.
