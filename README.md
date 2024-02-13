@@ -4,7 +4,7 @@
 
 ## 📝| About Me 
 - 👩‍💻 I'm Akira!
-- ☁ I’m currently working in [SaySco Project](https://github.com/capstone-saysco) as Cloud Engineer and Back-end Developer.
+- ☁ I was a cohort in Bangkit Academy, developed [SaySco Project](https://github.com/capstone-saysco) as Cloud Engineer and Back-end Developer.
 - 📈 Focused to be a full-stack developer.
 - 📌 Familiar with Laravel, NodeJS, React, Python
 
