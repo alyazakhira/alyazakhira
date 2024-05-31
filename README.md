@@ -4,9 +4,10 @@
 
 ## 📝| About Me 
 - 👩‍💻 I'm Akira!
-- ☁ I was a cohort in Bangkit Academy, developed [SaySco Project](https://github.com/capstone-saysco) as Cloud Engineer and Back-end Developer.
+- 🎓 A third year software engineering technology student from Universitas Gadjah Mada.
+- ☁ A Bangkit Academy 2023 gradute, developed [SaySco Project](https://github.com/capstone-saysco) as Cloud Engineer and Back-end Developer.
 - 📈 Focused to be a full-stack developer.
-- 📌 Familiar with Laravel, NodeJS, React, Python
+- 📌 Familiar with Laravel, NodeJS, React, Python.
 
 > [!IMPORTANT]  
 > This page is still under development, so as the user 😊
